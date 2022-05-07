@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HDN+jbIrbgtwWFMM2t/+zNfr+Eb/rkeMp+lb97moB6zJL5ghvtRGtW0UqBvI/0b7kpM+WhmdpWN/BtvnMOTbeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kamil\\Desktop\\Kurs ASP NET Core\\git\\Repozytorium lokalne\\SimpleTcpIpClientServer\\SimpleTcpIpClientServer\\TCPServer\\TCPServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kamil\\.nuget\\packages\\supersimpletcp\\2.6.0.7\\supersimpletcp.2.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

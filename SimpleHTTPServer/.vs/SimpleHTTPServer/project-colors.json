@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7eeda20e-65bd-4d49-9e7b-c557f4da3323": {
+      "ProjectGuid": "7eeda20e-65bd-4d49-9e7b-c557f4da3323",
+      "DisplayName": "SimpleHTTPServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

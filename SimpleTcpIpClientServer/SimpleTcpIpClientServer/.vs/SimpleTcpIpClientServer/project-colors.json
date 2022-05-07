@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4805e6b9-ba7a-4c8f-a78a-446c2b440d1b": {
+      "ProjectGuid": "4805e6b9-ba7a-4c8f-a78a-446c2b440d1b",
+      "DisplayName": "SimpleTcpIpClientServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
